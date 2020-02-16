@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modrops:salt"
+    }
+  },
+  "result": {
+    "item": "modrops:salt_block"
+  }
+}

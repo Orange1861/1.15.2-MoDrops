@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "modrops:horn",
+	"modrops:skelly_arm",
+	"modrops:skelly_leg",
+	"modrops:skelly_torso"
+  ]
+}

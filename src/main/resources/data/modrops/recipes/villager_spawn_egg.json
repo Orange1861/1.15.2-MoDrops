@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spawn_egg",
+  "pattern": [
+    "###",
+    "VAE",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modrops:biomatter"
+    },
+	"E": {
+      "item": "minecraft:emerald"
+    },
+	"A": {
+      "item": "modrops:adaptive_egg"
+    },
+	"V": {
+      "item": "modrops:villager_nose"
+    }
+  },
+  "result": {
+    "item": "minecraft:villager_spawn_egg"
+  }
+}

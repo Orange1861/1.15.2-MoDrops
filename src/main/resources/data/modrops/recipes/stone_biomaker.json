@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "biomaker",
+  "pattern": [
+    "W W", 
+	"W W", 
+	"WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:bricks"
+    }
+  },
+  "result": {
+    "item": "modrops:stone_biomaker"
+  }
+}

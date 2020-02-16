@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spawn_egg",
+  "pattern": [
+    "###",
+    "TAT",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modrops:biomatter"
+    },
+	"T": {
+      "item": "minecraft:tnt"
+    },
+	"A": {
+      "item": "modrops:adaptive_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:creeper_spawn_egg"
+  }
+}

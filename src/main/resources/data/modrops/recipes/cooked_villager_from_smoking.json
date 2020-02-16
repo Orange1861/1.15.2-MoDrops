@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "modrops:raw_villager"
+  },
+  "result": "modrops:cooked_villager",
+  "experience": 0.35,
+  "cookingtime": 100
+}

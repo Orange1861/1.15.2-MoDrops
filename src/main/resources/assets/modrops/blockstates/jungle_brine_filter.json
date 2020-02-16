@@ -1,0 +1,8 @@
+{
+    "variants": {
+		"type=empty": { "model":"modrops:block/jungle_brine_filter_empty" },
+        "type=1full": { "model":"modrops:block/jungle_brine_filter_1full" },
+        "type=2full": { "model":"modrops:block/jungle_brine_filter_2full" },
+        "type=full": { "model":"modrops:block/jungle_brine_filter_full" }
+    }
+}

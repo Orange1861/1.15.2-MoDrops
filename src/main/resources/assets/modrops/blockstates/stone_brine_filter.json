@@ -1,0 +1,7 @@
+{
+    "variants": {
+		"type=empty": { "model":"modrops:block/stone_brine_filter_empty" },
+        "type=1full": { "model":"modrops:block/stone_brine_filter_1full" },
+        "type=full": { "model":"modrops:block/stone_brine_filter_full" }
+    	}
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "modrops:raw_horse_meat"
+  },
+  "result": "modrops:cooked_horse_meat",
+  "experience": 0.35,
+  "cookingtime": 100
+}

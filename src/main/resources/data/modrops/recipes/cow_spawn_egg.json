@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spawn_egg",
+  "pattern": [
+    "###",
+    "BAH",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modrops:biomatter"
+    },
+	"H": {
+      "item": "modrops:horn"
+    },
+	"A": {
+      "item": "modrops:adaptive_egg"
+    },
+	"B": {
+      "item": "minecraft:beef"
+    }
+  },
+  "result": {
+    "item": "minecraft:cow_spawn_egg"
+  }
+}

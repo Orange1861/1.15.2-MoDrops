@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "brine_filter",
+  "pattern": [
+    "W W", 
+	"W W", 
+	"WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:acacia_log"
+    }
+  },
+  "result": {
+    "item": "modrops:acacia_brine_filter"
+  }
+}

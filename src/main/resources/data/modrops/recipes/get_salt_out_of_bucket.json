@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "items_conversion",
+  "ingredients": [
+    {
+      "item": "modrops:bucket_of_salt"
+    }
+  ],
+  "result": {
+    "item": "modrops:salt",
+	"count": 4
+  }
+}

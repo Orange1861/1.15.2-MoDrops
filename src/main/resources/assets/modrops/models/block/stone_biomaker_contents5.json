@@ -1,0 +1,14 @@
+{
+    "textures": {
+        "particle": "modrops:blocks/biomaker_biomatter",
+        "inside": "modrops:blocks/biomaker_biomatter"
+    },
+    "elements": [
+        {   "from": [ 4, 0, 4 ],
+            "to": [ 14, 11, 14 ],
+            "faces": {
+                "up": { "texture": "#inside", "cullface": "up" }
+            }
+        }
+    ]
+}

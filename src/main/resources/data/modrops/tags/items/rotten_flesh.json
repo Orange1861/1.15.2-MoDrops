@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+	"modrops:zombie_arm",
+	"modrops:zombie_leg",
+	"modrops:zombie_torso"
+  ]
+}

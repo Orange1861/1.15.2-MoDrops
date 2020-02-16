@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spawn_egg",
+  "pattern": [
+    "###",
+    "CAF",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modrops:biomatter"
+    },
+	"F": {
+      "item": "minecraft:feather"
+    },
+	"A": {
+      "item": "modrops:adaptive_egg"
+    },
+	"C": {
+      "item": "minecraft:chicken"
+    }
+  },
+  "result": {
+    "item": "minecraft:chicken_spawn_egg"
+  }
+}

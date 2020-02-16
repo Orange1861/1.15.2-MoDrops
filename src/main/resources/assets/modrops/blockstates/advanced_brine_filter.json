@@ -1,0 +1,6 @@
+{
+    	"variants": {
+        	"type=empty": { "model": "modrops:block/advanced_brine_filter_empty" },
+        	"type=full": { "model": "modrops:block/advanced_brine_filter_full" }
+    	}
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spawn_egg",
+  "pattern": [
+    "#A#",
+    "AEA",
+    "#A#"
+  ],
+  "key": {
+    "#": {
+      "item": "modrops:compressed_biomatter"
+    },
+	"E": {
+      "item": "minecraft:egg"
+    },
+	"A": {
+      "item": "modrops:adaptive_biomatter"
+    }
+  },
+  "result": {
+    "item": "modrops:adaptive_egg"
+  }
+}

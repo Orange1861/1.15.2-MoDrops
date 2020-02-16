@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "biomatter",
+  "pattern": [
+    "###",
+    "EGR",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modrops:compressed_biomatter"
+    },
+	"E": {
+      "item": "minecraft:ender_eye"
+    },
+	"G": {
+      "item": "minecraft:golden_apple"
+    },
+	"R": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "modrops:adaptive_biomatter",
+    "count": 2
+  }
+}

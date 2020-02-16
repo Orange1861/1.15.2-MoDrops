@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "biomatter",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "modrops:compressed_biomatter"
+    }
+  },
+  "result": {
+    "item": "minecraft:coal"
+  }
+}

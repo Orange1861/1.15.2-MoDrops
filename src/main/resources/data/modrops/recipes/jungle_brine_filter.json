@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "brine_filter",
+  "pattern": [
+    "W W", 
+	"W W", 
+	"WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:jungle_log"
+    }
+  },
+  "result": {
+    "item": "modrops:jungle_brine_filter"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "items_conversion",
+  "ingredients": [
+    {
+      "tag": "modrops:rotten_flesh"
+    }
+  ],
+  "result": {
+    "item": "minecraft:rotten_flesh"
+  }
+}
